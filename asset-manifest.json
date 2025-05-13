@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tabcon_react/static/css/main.bf0b2629.css",
+    "main.js": "/tabcon_react/static/js/main.f6da79b6.js",
+    "index.html": "/tabcon_react/index.html",
+    "main.bf0b2629.css.map": "/tabcon_react/static/css/main.bf0b2629.css.map",
+    "main.f6da79b6.js.map": "/tabcon_react/static/js/main.f6da79b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf0b2629.css",
+    "static/js/main.f6da79b6.js"
+  ]
+}
